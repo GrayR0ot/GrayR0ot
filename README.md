@@ -35,15 +35,11 @@
 <p align="left"> 
    &emsp;
   <a href="https://reactjs.org" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <a href="https://angular.io/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/-angular-DE0031?logo=angular"/>
   </a>
 &emsp; 
 </p>
