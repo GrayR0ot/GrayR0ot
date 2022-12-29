@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Malware+Analyst/Developer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Junior Full stack (backend <3) developer looking for new opportunities...</h4>
+<h4 align="center">Junior Software Engineer...</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GrayR0ot&label=GrayR0ot's%20Profile%20Views%20&color=dc143c&style=plastic" alt="GrayR0ot" /> </p>
 
